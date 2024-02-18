@@ -1,4 +1,4 @@
-# Implementation of Univariate Linear Regression
+# Exp 1 Implementation of Univariate Linear Regression
 
 ## AIM:
 
