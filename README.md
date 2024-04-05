@@ -1,5 +1,8 @@
 # Exp 1 Implementation of Univariate Linear Regression
 
+# Developed by: Dhivyapriya.R
+# RegisterNumber: 212222230032
+
 ## AIM:
 
 To implement univariate Linear Regression to fit a straight line using least squares.
